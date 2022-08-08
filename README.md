@@ -2,15 +2,23 @@
 
 ## I'm beginer Python and Solidity developer
 
-## Languages and Tools
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=gold)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat&logo=solidity)
-![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
-![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django)
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
-![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat&logo=PyCharm)
+### Languages and Tools
+
+![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-grey?style=flat&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-grey?style=flat&logo=postgresql)
+![PyCharm](https://img.shields.io/badge/-PyCharm-grey?style=flat&logo=PyCharm)
+![Solidity](https://img.shields.io/badge/-Solidity-grey?style=flat&logo=solidity)
+![JS](https://img.shields.io/badge/-JavaScript-grey?style=flat&logo=JavaScript)
+![HTML](https://img.shields.io/badge/-HTML-grey?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-grey?style=flat&logo=css3)
+
+### Follow Me
 
 
-Follow me
+[![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram)](https://t.me/molchanovboris)
+[![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=Instagram)](https://www.instagram.com/molchanov.boris/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=Linkedin)]()
+[![Twitter](https://img.shields.io/badge/-Twitter-grey?style=flat&logo=Twitter)](https://twitter.com/realborismolch)
+
+
