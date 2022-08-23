@@ -2,7 +2,8 @@
 
 ## I'm beginer Python and Solidity developer
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/BorisMolchanov)   
+---
+[![codewars](https://www.codewars.com/users/BorisMolchanov/badges/small)](https://www.codewars.com/users/BorisMolchanov)
 
 ---
 
