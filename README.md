@@ -1,6 +1,9 @@
 ![Header](https://github.com/BorisMolchanov/borismolchanov/blob/main/assets/header2.png)
 
 ## I'm beginer Python and Solidity developer
+
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/BorisMolchanov)   
+
 ---
 
 ### Languages and Tools
@@ -20,7 +23,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-grey?style=flat&logo=Telegram)](https://t.me/molchanovboris)
 [![Instagram](https://img.shields.io/badge/-Instagram-grey?style=flat&logo=Instagram)](https://www.instagram.com/molchanov.boris/)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=Linkedin)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-grey?style=flat&logo=Twitter)](https://twitter.com/realborismolch)
 
 ---
