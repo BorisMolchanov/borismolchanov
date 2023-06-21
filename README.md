@@ -1,6 +1,6 @@
 ![Header](https://github.com/BorisMolchanov/borismolchanov/blob/main/assets/header2.png)
 
-## I'm beginer Python and Solidity developer
+## Python developer
 
 ---
 [![codewars](https://www.codewars.com/users/BorisMolchanov/badges/small)](https://www.codewars.com/users/BorisMolchanov)
